@@ -2,6 +2,8 @@
 
 ## Código Ruim
   
+### Caracteristicas do código ruim
+
   -  Classes muito longas
   -  Métodos muito longos
   -  Nomes de variáveis que seguem o padrão proprio e não um padrão mais legível.
@@ -10,7 +12,7 @@
   ....
   
   
-## Antipadrões
+### Antipadrões
    É uma maneira não eficiente de fazer algo. 
    
    - **Grande bola de lama (Big boll of mud):** um sistema sem uma estrutura reconhecível.
@@ -31,3 +33,20 @@
   - **Codigo Lspaguete(Spaghetti Code):** Sistemas que possuem estruturas pouco conhecidas(Há um mal uso das estruturas de código).
   
   - **Código Lasanha(Lasangna Code):** Sistemas com muitas camadas.
+
+
+## Código Limpo
+ 
+### Principios do código limpo
+
+- **Regra do escoteiro:** Mantenha sempre o ambiente do sistema melhor do que você emcontrou. Pare de cavar "buraco".
+
+- **KISS(Keep It Simple Stupid):** Deixar o código o mais simples e organizado, sem complexidade adicional necessária.
+
+- **DRY (DONT' REPEAT YOUR SELF):** Não vou repetir eu mesmo, ou seja, não repita metodos, variáveis ou qualquer trecho de código repetido.
+
+- **YAGNI(You Ain't Gonna Need It):** Se você não tem certeza que vai precisar de uma funcionalidade, remova ou não faça. Faça somente o que precisa ser feito.
+
+
+
+
