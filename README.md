@@ -36,7 +36,8 @@
 
 
 ## Código Limpo
- 
+   É um código com alta coesão(responsabilidade separadas) e baixo acoplamento(vinculo entre as funcionalidades).
+
 ### Principios do código limpo
 
 - **Regra do escoteiro:** Mantenha sempre o ambiente do sistema melhor do que você emcontrou. Pare de cavar "buraco".
@@ -45,7 +46,11 @@
 
 - **DRY (DONT' REPEAT YOUR SELF):** Não vou repetir eu mesmo, ou seja, não repita metodos, variáveis ou qualquer trecho de código repetido.
 
-- **YAGNI(You Ain't Gonna Need It):** Se você não tem certeza que vai precisar de uma funcionalidade, remova ou não faça. Faça somente o que precisa ser feito.
+- **YAGNI(You Ain't Gonna Need It):** Se você não tem certeza que vai precisar de uma funcionalidade, remova ou não faça. Faça somente o que precisa ser feito. "Boia no deserto".
+
+-**SoC (Separation of Concerns):** Separe as responsabilidades. "Na geladeira não pode conter produtos de higiene";
+
+
 
 
 
