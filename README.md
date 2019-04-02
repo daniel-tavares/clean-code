@@ -40,7 +40,7 @@
 
 ### Principios do código limpo
 
-- **Regra do escoteiro:** Mantenha sempre o ambiente do sistema melhor do que você emcontrou. Pare de cavar "buraco".
+- **Regra do escoteiro:** Mantenha sempre o ambiente do sistema melhor do que você encontrou. Pare de cavar "buraco".
 
 - **KISS(Keep It Simple Stupid):** Deixar o código o mais simples e organizado, sem complexidade adicional necessária.
 
